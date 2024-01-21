@@ -25,3 +25,7 @@ import { v2 as cloudinary } from 'cloudinary';
 - When the user clicks on the submit button, upload the file to cloudinary
 - Display the url of the uploaded file on the page
 - Display the image on the page using the url of the uploaded file
+
+
+
+https://cloudinary.com/documentation/upload_images#direct_uploading_from_the_browser
