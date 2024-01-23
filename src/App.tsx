@@ -13,7 +13,7 @@ export default function App() {
 
     const formData = new FormData();
     formData.append('file', file);
-    formData.append("upload_preset", "hpa89cjp");
+    formData.append("upload_preset", "yczhzivm");
 
     const response = await fetch(
       `https://api.cloudinary.com/v1_1/${cloudinaryConfig.cloudName}/image/upload`,
